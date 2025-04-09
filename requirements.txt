@@ -1,9 +1,7 @@
 streamlit==1.32.0
 langchain==0.1.13
 langchain_groq==0.1.1
-pypdf==3.17.4
-python-dotenv==1.0.1
-pandas==2.2.1streamlit
+pandas==2.2.1
 langchain
 langchain-community
 google-generativeai
@@ -11,4 +9,3 @@ sentence-transformers
 chromadb
 pypdf
 python-dotenv
-
